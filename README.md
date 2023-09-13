@@ -1,4 +1,4 @@
-**# Anti Grazer
+# Anti Grazer
 
 ![Anti Grazer Logo](logo.png)
 
@@ -22,7 +22,7 @@ L'extension Anti Grazer sera bientôt disponible sur Firefox. Restez à l'écout
 
 ## Licence
 
-Ce projet est sous licence MIT. Veuillez consulter le fichier [mit][LICENSE] pour plus de détails.
+Ce projet est sous licence MIT. Veuillez consulter le fichier [mit](LICENSE) pour plus de détails.
 
 ## Contact
 
