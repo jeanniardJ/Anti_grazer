@@ -1,5 +1,3 @@
-# Architecture
-
 ## Overview
 
 The architecture of Anti Grazer is modular and decoupled, aimed at ensuring scalability, maintainability, and robustness. The project is divided into three main components - Backend, Frontend, and Browser Extensions, each having its distinct role and functionality. The following sections describe the architectural design, technologies used, and the interaction between these components.
