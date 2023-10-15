@@ -28,7 +28,7 @@ Detailed information on the API, including endpoints, authentication, and exampl
 
 Detailed information on the backend, including setup, architecture, and usage.
 
-## [Contribution Guidelines](contribution/CONTRIBUTING.md)
+## [Contribution Guidelines](../CONTRIBUTING.md)
 
 Please read for details on our code of conduct, and the process for submitting pull requests to us.
 
@@ -62,7 +62,7 @@ Guidelines and resources for design.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](../LICENSE.md) file for details.
 
 ## Contact
 
