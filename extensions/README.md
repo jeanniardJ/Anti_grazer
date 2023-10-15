@@ -1,4 +1,4 @@
-This repository contains the browser extensions for Project.
+This repository contains the browser extensions for Anti grazer.
 
 ## Table of Contents
 
