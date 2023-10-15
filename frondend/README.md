@@ -1,6 +1,6 @@
-# Project Name Frontend
+# Project Anti grazer Frontend
 
-This repository contains the frontend code for Project Name, built with React.
+This repository contains the frontend code for Anti grazer, built with React.
 
 ## Table of Contents
 
