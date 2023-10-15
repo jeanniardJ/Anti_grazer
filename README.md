@@ -1,5 +1,3 @@
-## English
-
 # Anti Grazer
 
 ![Anti Grazer Logo](logo.png)
@@ -35,8 +33,6 @@ For any questions or concerns, please contact us at the email address: [contact@
 This project is open to all collaborations. Feel free to open an issue or create a pull request. Please read through the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
 
 ---
-
-## Français
 
 # Anti Grazer
 
