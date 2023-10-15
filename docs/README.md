@@ -5,52 +5,60 @@ This repository contains the documentation for Anti grazer. It provides an overv
 ## Table of Contents
 
 - [Overview](#overview)
-- [Getting Started](#getting-started)
-- [Contribution Guidelines](#contribution-guidelines)
 - [API Documentation](#api-documentation)
+- [Backend Documentation](#backend-documentation)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Diagrams](#diagrams)
+- [Development Guidelines](#development-guidelines)
 - [Extension Documentation](#extension-documentation)
 - [Frontend Documentation](#frontend-documentation)
-- [Backend Documentation](#backend-documentation)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [License](#license)
-- [Contact](#contact)
+- [Guides](#guides)
+- [Project Management](#project-management)
+- [Design Guidelines](#design-guidelines)
 
 ## Overview
 
 Brief overview of the project.
 
-## Getting Started
-
-Instructions on how to get started with the project.
-
-## Contribution Guidelines
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## API Documentation
+## [API Documentation](api/README.md)
 
 Detailed information on the API, including endpoints, authentication, and examples.
 
-## Extension Documentation
-
-Detailed information on the browser extensions, including installation, features, and usage.
-
-## Frontend Documentation
-
-Detailed information on the frontend, including setup, architecture, and usage.
-
-## Backend Documentation
+## [Backend Documentation](backend/README.md)
 
 Detailed information on the backend, including setup, architecture, and usage.
 
-## Testing
+## [Contribution Guidelines](contribution/CONTRIBUTING.md)
 
-Instructions on how to run the tests for each part of the project.
+Please read for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Deployment
+## [Diagrams](diagrams/README.md)
 
-Instructions on how to deploy the project.
+Diagrams representing the architecture and other visual aspects of the project.
+
+## [Development Guidelines](development/README.md)
+
+Guidelines and resources for the development.
+
+## [Extension Documentation](extension/README.md)
+
+Detailed information on the browser extensions, including installation, features, and usage.
+
+## [Frontend Documentation](frontend/README.md)
+
+Detailed information on the frontend, including setup, architecture, and usage.
+
+## [Guides](guides/README.md)
+
+Various guides.
+
+## [Project Management](project-management/README.md)
+
+Resources for project management.
+
+## [Design Guidelines](design/README.md)
+
+Guidelines and resources for design.
 
 ## License
 
