@@ -1,6 +1,6 @@
-# Project Name Backend
+# Project Anti grazer Backend
 
-This repository contains the backend code for Project Name, built with Symfony.
+This repository contains the backend code for Anti grazer, built with Symfony.
 
 ## Table of Contents
 
