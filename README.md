@@ -1,6 +1,6 @@
 # Anti Grazer
 
-![Anti Grazer Logo](logo.png)
+![Anti Grazer Logo](Anti_grazer.png)
 
 **Anti Grazer** is a browser extension designed to protect you against fraudsters and spam on social networks. This extension is currently operational on Chrome and will soon be available on Firefox.
 
@@ -36,7 +36,7 @@ This project is open to all collaborations. Feel free to open an issue or create
 
 # Anti Grazer
 
-![Logo Anti Grazer](logo.png)
+![Logo Anti Grazer](Anti_grazer.png)
 
 **Anti Grazer** est une extension de navigateur conçue pour vous protéger contre les brouteurs et les spams sur les réseaux sociaux. Cette extension fonctionne actuellement sur Chrome et sera bientôt disponible sur Firefox.
 
